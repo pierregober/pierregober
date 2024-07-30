@@ -41,6 +41,8 @@
         "Auth0",
         "Firebase Auth",
         "Chrome Extensions",
+        "SEO",
+        "Google Search Console",
         "TDD",
         "Scrum",
         "SOLID",
