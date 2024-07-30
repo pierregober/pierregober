@@ -73,3 +73,7 @@
 - [Generate Critical CSS](https://cleverlydone.com/generate-critical-css-aka-above-the-fold-using-gulp)
 
 ---
+
+<div align="center">
+<img width="50%" src="https://camo.githubusercontent.com/5e205e120907babfc9ee8532bd2da35e9febd420deb6f4b5641d3ea7bc5a3abd/68747470733a2f2f692e696d6775722e636f6d2f466534765044652e6a7067" />
+</div>
