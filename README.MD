@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Pierre.</h2>
+<h2 align="center">👋 Yo! I'm Pierre</h2>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pierregober.pierregober)
 
