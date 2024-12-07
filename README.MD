@@ -1,7 +1,7 @@
 <h2 align="center">👋 Yo! I'm Pierre</h2>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pierregober.pierregober)
-
+<!-- 
 ```javascript
 (function () {
   function PG() {
@@ -83,4 +83,4 @@
 
 <div align="center">
 <img style="width: 60%" src="https://camo.githubusercontent.com/5e205e120907babfc9ee8532bd2da35e9febd420deb6f4b5641d3ea7bc5a3abd/68747470733a2f2f692e696d6775722e636f6d2f466534765044652e6a7067" />
-</div>
+</div> -->
