@@ -1,7 +1,8 @@
 <h2 align="center">👋 Yo! I'm Pierre</h2>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pierregober.pierregober)
+
 <!-- 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pierregober.pierregober)
 ```javascript
 (function () {
   function PG() {
