@@ -1,5 +1,8 @@
 <h2 align="center">👋 Yo! I'm Pierre</h2>
+
 Looking for a job? Visit https://usepivot.io
+
+Looking for meeting transcription tool? Vistit https://usecuecard.com
 
 <!-- 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pierregober.pierregober)
