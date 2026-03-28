@@ -2,7 +2,7 @@
 
 Looking for a job? Visit https://usepivot.io
 
-Looking for meeting transcription tool? Vistit https://usecuecard.com
+<!-- Looking for meeting transcription tool? Vistit https://usecuecard.com -->
 
 <!-- Looking for 100% free sprint retro tool? Visit https://sprintretro.com -->
 
